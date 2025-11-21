@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Simulación completa de un robot manipulador planar de 2 grados de libertad implementando el formalismo de Euler-Lagrange.
+Simulación de un robot manipulador planar de 2 grados de libertad implementando el formalismo de Euler-Lagrange.
 
 ## Resultados de la simulación
 
@@ -16,7 +16,6 @@ Implementar y simular la dinámica de un robot planar de 2 GDL utilizando las ec
 - Modelado dinámico completo
 - Fricción viscosa y de Coulomb
 - Torques de entrada específicos
-- Visualización de resultados
 
 ## Características Técnicas
 
@@ -38,3 +37,4 @@ Implementar y simular la dinámica de un robot planar de 2 GDL utilizando las ec
    git clone https://github.com/danielareyes23/simulacion-robot-2gdl.git
 
    cd simulacion-robot-2gdl
+
