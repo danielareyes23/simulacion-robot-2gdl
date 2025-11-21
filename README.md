@@ -8,7 +8,7 @@ Simulación completa de un robot manipulador planar de 2 grados de libertad impl
 
 ## Resultados de la simulación
 
-![Gráficas de simulación](images/resultados_simulacion.png)
+![Gráficas de simulación](resultados.png)
 
 ## Objetivo
 
@@ -36,4 +36,5 @@ Implementar y simular la dinámica de un robot planar de 2 GDL utilizando las ec
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/danielareyes23/simulacion-robot-2gdl.git
+
    cd simulacion-robot-2gdl
